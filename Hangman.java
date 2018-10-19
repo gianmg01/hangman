@@ -146,7 +146,6 @@ public class Hangman {
                     }
    
                 }else {
-                    
                 
                     word2 = "";
                     num1 = 0;
